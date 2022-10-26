@@ -1,0 +1,3 @@
+/home/daniel/C++/DesingPatterns/Adapter/build/CMakeFiles/rebuild_cache.dir
+/home/daniel/C++/DesingPatterns/Adapter/build/CMakeFiles/edit_cache.dir
+/home/daniel/C++/DesingPatterns/Adapter/build/CMakeFiles/adapter-learning.dir
